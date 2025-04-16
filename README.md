@@ -9,3 +9,5 @@ This repository contains the implementation and analysis of Proximal Policy Opti
     - Thorough explanations of methodological choices and their impacts on model training.
 
 This project serves as a practical exploration of advanced reinforcement learning techniques, suitable for understanding their impact on training stability and performance efficiency.
+
+Lunar Lander Environment Documentation: https://gymnasium.farama.org/environments/box2d/lunar_lander/
